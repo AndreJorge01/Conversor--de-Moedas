@@ -6,7 +6,7 @@ Currency Converter exercise done in javaScript
 ## Technologies used
 + JavaScript
 + HTML
-+ CSS
++ CSS.
 
 # Start Dev Environment for VSCode
 + Open project folder in VSCode
